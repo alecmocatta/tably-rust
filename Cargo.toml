@@ -1,0 +1,17 @@
+[package]
+name = "tably"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+authors = ["Alec Mocatta <alec@tably.com>"]
+categories = []
+keywords = []
+description = """
+Tably <> Rust connector
+"""
+repository = "https://github.com/tablyinc/tably-rust"
+homepage = "https://github.com/tablyinc/tably-rust"
+documentation = "https://docs.rs/tably"
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
